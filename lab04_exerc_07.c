@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 void strcat(char a, char b){
   printf("%s%s", a, b);
